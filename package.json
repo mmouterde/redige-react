@@ -68,6 +68,9 @@
     "extends": [
       "xo-react/space",
       "xo-space/esnext"
-    ]
+    ],
+    "rules": {
+      "react/jsx-closing-bracket-location": 0
+    }
   }
 }
